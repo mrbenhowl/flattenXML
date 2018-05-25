@@ -1,5 +1,4 @@
-# FlattenXML [![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/flattenxml)
-
+# FlattenXML
 Small JavaScript/NodeJS library that takes a formatted XML string like the following: 
 
 ```xml
